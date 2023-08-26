@@ -1,0 +1,9 @@
+# dependencies
+/notes/node_modules
+/server/node_modules
+/node_modules
+
+#environment
+/notes/.env
+/server/.env
+
